@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilalwebdev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning alpine js
+- 🌱 I’m currently learning Remix
 - 💞️ I’m looking to collaborate on every interesting topic
 - 📫 How to reach me twitter/sherlock_9_
 
